@@ -26,3 +26,13 @@ ecotrack.db
 /anomaly_distribution.png
 /architecture_diagram.png
 /EcoTrack_Project_Presentation_Guide.pdf
+
+# Academic Reports & Local Generator Scripts (keep local only)
+*.pdf
+/build_final_project_report*.py
+/create_report_assets.py
+/test_twopass.py
+/college_logo*.png
+/extracted_img_*.png
+/*.png
+
